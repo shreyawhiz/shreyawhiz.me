@@ -10,6 +10,12 @@ html, body {
 	margin: 0;
 }
 
+.centered {
+    margin: 0 auto;
+    text-align: left;
+    width: 800px;
+}
+
 a {
 
 	-webkit-transition: color 300ms ease-out;
@@ -20,8 +26,12 @@ a {
 }
 
 .introduction {
-
 	margin-top: 80px;
+	margin-left: 180px;
+	position:absolute;
+	top: 0px;
+	z-index: 2000000;
+	text-align: center;
 }
 
 .introduction h1,
@@ -49,6 +59,10 @@ a {
 
 	margin-bottom: 30px;
 	margin-top: 10px;
+}
+
+.navigation h1,h2{
+	color: #45ADA8;
 }
 
 .navigation a {
