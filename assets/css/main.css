@@ -80,8 +80,8 @@ a {
 }
 
 .showcase {
-
-	display: block;
+	border-radius: 50%;
+	/*display: block;*/
 }
 
 .showcase h3 {
