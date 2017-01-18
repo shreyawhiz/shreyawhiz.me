@@ -50,7 +50,7 @@ Particle.prototype = {
 // Example
 // ----------------------------------------
 
-var MAX_PARTICLES = 280;
+var MAX_PARTICLES = 880;
 var COLOURS = [ '#69D2E7', '#A7DBD8', '#E0E4CC', '#F38630', '#FA6900', '#FF4E50', '#F9D423' ];
 
 var particles = [];

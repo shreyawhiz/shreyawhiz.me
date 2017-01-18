@@ -34,6 +34,15 @@ a {
 	text-align: center;
 }
 
+.about {
+	margin-top: 280px;
+	margin-left: 180px;
+	position:absolute;
+	/*top: 0px;*/
+	z-index: 2000000;
+	text-align: center;
+}
+
 .introduction h1,
 .introduction h2 {
 
